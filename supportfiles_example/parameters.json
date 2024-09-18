@@ -1,0 +1,10 @@
+{
+    "account": "example@gmail.com",
+    "password": "*****************",
+    "template_docx": "template",
+    "target_xlsx": "target",
+    "Subject": "*********",
+    "content_txt": "content",
+    "attach_pdf": "*************",
+    "attach_map": "map"
+}

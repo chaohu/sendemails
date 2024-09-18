@@ -1,3 +1,7 @@
+# Project support files
+sendemails.code-workspace
+supportfiles/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
